@@ -17,8 +17,8 @@ const data_chuky = [
   },
 ];
 
-const sheetIDChuKy = "1rYRmehUFeo19pNqES1SollC5dq79749ZCF1YgjY9HIw";
-const gidChuKy = "729849306";
+const sheetIDChuKy = "1qokfIvC61POtugS1j9GU6GAvNLxk07_ucnwBCN-CKck";
+const gidChuKy = "11826100";
 const urlSheetChuKy = `https://docs.google.com/spreadsheets/d/${sheetIDChuKy}/gviz/tq?tqx=out:json&gid=${gidChuKy}`;
 
 function updateData(data, sizePercent) {

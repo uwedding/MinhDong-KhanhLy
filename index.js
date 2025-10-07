@@ -23,7 +23,7 @@
 // Lưu form vào GG sheet
 
 const GOOGLE_SCRIPT_URL_THAM_DU =
-  "https://script.google.com/macros/s/AKfycbxAUDvtS3sFp3t7Y9cqLqRK4Rqd54TjYvpELASzAmkovaDW8LMMzMjrsWMeKvx9DCM/exec";
+  "https://script.google.com/macros/s/AKfycbxjU5KQMpl31jhG6hB0zHcW_Tbh8nj88tnDsG25MSPoAC0VUp7Xptt743h3nJH_xNS3/exec";
 document
   .querySelector("#form-loi-chuc-1")
   .addEventListener("submit", function (e) {
