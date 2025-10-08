@@ -137,10 +137,18 @@
   animation-duration: 2s;
   animation-iteration-count: 1;
   font-size: 22px;
-  color: rgb(97, 135, 104);
+  color: #fff;
   text-align: center;
   align-items: center;
-  height: 200px;
+  height: 203px;
   display: flex;
   padding: 20px;
+  background-color: #eac7a6;
+  line-height: 40px;
+}
+
+@media (max-width: 767px) {
+  .text-bank {
+    height: 250px;
+  }
 }
