@@ -132,10 +132,10 @@
 }
 
 .text-bank {
-  animation-name: fadeInDown;
-  animation-delay: 1s;
-  animation-duration: 2s;
-  animation-iteration-count: 1;
+  animation-name: pulse;
+  animation-delay: 0s;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
   font-size: 22px;
   color: #fff;
   text-align: center;
